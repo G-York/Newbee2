@@ -1,3 +1,6 @@
 ### Welcome to Newbee2
-- Hello
-- How are you
+***Hello***
+***Who are you?***
+- a friend
+- a stranger
+- a mate
