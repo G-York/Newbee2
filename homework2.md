@@ -1,6 +1,369 @@
-### 问题一：我国关于数据开放的条例或法规<br><br/>
-### 问题二：国内外政府开放数据平台<br><br/>
-### 问题三：2012-2018年各季度GDP增速<br><br/>
+## 问题一：我国关于数据开放的条例或法规<br><br/>
+### 《中华人民共和国政府信息公开条例》
+
+信源：中华人民共和国中央人民政府 
+
+链接：http://www.gov.cn/xxgk/pub/govpublic/tiaoli.html
+
+### 《促进大数据发展行动纲要》
+
+信源：中华人民共和国中央人民政府
+
+链接：http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm
+
+### 《上海市公共数据开放暂行办法》
+
+信源：上海市人民政府
+
+链接：http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html
+
+### 《贵阳市政府数据共享开放条例》
+
+信源：贵阳人大
+
+链接：https://www.gysrd.gov.cn/phone/News_show.aspx?xid=146&lmid=147&nid=7081<br><br/>
+
+
+## 问题二：国内外政府开放数据平台<br><br/>
+### 四川省
+成都市公共数据开放平台
+
+http://www.cddata.gov.cn/
+
+已开放：602个数据集，60个部门，27301171条数据，39个API，12个应用<br><br/>
+
+数据开放--四川省人民政府网站
+
+http://www.sc.gov.cn/10462/13797/index.shtml<br><br/>
+
+雅安市人民政府数据开放栏目
+
+http://www.yaan.gov.cn/shuju.html<br><br/>
+
+### 北京市
+北京市政务数据资源网
+
+http://www.bjdata.gov.cn/jkfb/index.htm
+
+56家单位、1147类数据集、7653万余条数据记录<br><br/>
+
+### 上海市
+上海市政府数据服务网
+
+http://www.data.sh.gov.cn/home!toHomePage.action
+
+开放数据项总量32312条 开放数据资源1958个 开放数据部门45个<br><br/>
+
+### 天津市
+天津市信息资源统一开放平台
+
+https://data.tj.gov.cn/
+
+21 个主题、39 个部门、384 个数据集、116 个数据接口<br><br/>
+
+### 福建省
+福建省公共信息资源统一开放平台
+
+https://data.fujian.gov.cn/odweb/
+
+697346300条数据； 698个数据资源； 37个部门；1318个API；3个应用<br><br/>
+
+厦门市大数据开放平台
+
+http://data.xm.gov.cn/
+
+8896790条数据 、789个资源、327个API、39个部门<br><br/>
+
+### 广东省
+开放广东
+
+http://gddata.gd.gov.cn/
+
+2369个政府数据集，58个数据应用，超过1.39亿条政府数据<br><br/>
+
+广东省金融数据开放平台
+
+http://210.76.74.192/<br><br/>
+
+佛山市政府数据开放平台
+
+http://www.foshan-data.cn/
+
+提供部门(个)：49主题分类(个)：25数据集(个)：1071数据总量(个)：45078449<br><br/>
+
+深圳市政府数据开放平台
+
+http://opendata.sz.gov.cn/
+
+数据目录1,260个 数据总量121,338,216条 数据接口1,002个 调用次数1,945,673次<br><br/>
+
+广州市政府数据统一开放平台
+
+http://data.gz.gov.cn/
+
+68个部门，1307个数据集，100248678数据量，81693下载量<br><br/>
+
+数据东莞
+
+http://dataopen.dg.gov.cn/dataopen/
+
+36797385条数据、69个部门、714类资源、12757个数据包、2100037次浏览、173422次下<br><br/>
+
+惠州市政府数据开放平台
+
+http://data.huizhou.gov.cn/
+
+3141349条数据、348个数据集、5个部门<br><br/>
+
+珠海市民生数据开放平台
+
+http://data.zhuhai.gov.cn/
+
+已开放：195条数据；188个数据资源；74个部门<br><br/>
+
+广东省政府数据统一开放平台-潮州市
+
+http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/344.html<br><br/>
+
+广东省政府数据统一开放平台-河源市
+
+http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/339.html<br><br/>
+
+江门市数据开放平台
+
+http://data.jiangmen.gov.cn/
+
+提供：26个部门、12个主题分类.299个开放数据集、65.21万条数据、1994次下载量<br><br/>
+
+中山市政府数据统一开放平台
+
+http://zsdata.zs.gov.cn/web/index
+
+数据集总数215，机构部门56，数据条数1736366，下载总数43801<br><br/>
+
+肇庆市人民政府数据开放平台
+
+http://www.zhaoqing.gov.cn/sjkf/<br><br/>
+
+ 
+
+### 贵州省
+贵阳市政府数据开放平台
+
+http://www.gyopendata.gov.cn/
+
+已开放 6180610条数据, 2841个数据集 , 310个API, 52个市级部门 , 13个区县<br><br/>
+
+遵义市政府数据开放平台
+
+http://www.zyopendata.gov.cn/
+
+171开放数据集；219个开放文件；30个部门<br><br/>
+
+铜仁市政府数据开放平台
+
+http://gztrdata.gov.cn/
+
+累计提供310个数据资源，其中数据类型资源69个<br><br/>
+
+### 海南省
+海南省政府数据统一开放平台
+
+http://data.hainan.gov.cn/
+
+14个已开放数据集； 969个已开放API；34个已开放部门<br><br/>
+
+### 河南省
+河南省公共数据开放平台
+
+http://data.hnzwfw.gov.cn/odweb/
+
+32个部分，20个领域，3497200数据量，709数据集，1418API，8个应用<br><br/>
+
+### 江西省
+江西省政府数据开放网站
+
+http://data.jiangxi.gov.cn/
+
+9个部门 , 153192条数据； 72个数据目录； 1个接口；<br><br/>
+
+### 宁夏回族自治区
+宁夏回族自治区数据开放平台
+
+http://ningxiadata.gov.cn/odweb/index.htm
+
+22个已开放部门；128个数据集类；343175条政府数据；13个应用；12个API；545544条访问量；456个下载量<br><br/>
+
+石嘴山政府数据开放平台
+
+http://szssjkf.nxszs.gov.cn/
+
+已开放97个数据集，107个数据资源，32个部门<br><br/>
+
+银川市城市数据开放平台
+
+http://data.yinchuan.gov.cn/
+
+提供：32个部门数据；228个开放数据目录数量、7832个数据总条数、45个API数量<br><br/>
+
+### 山东省
+山东公共数据开放网
+
+http://data.sd.gov.cn/
+
+59部门，34216目录，7.35亿数据，70284API，41应用<br><br/>
+
+济南市公共数据开放网
+
+http://www.jndata.gov.cn/
+
+71个部门 2106个数据集 4300个接口 6506个文件<br><br/>
+
+青岛公共数据开放网
+
+http://data.qingdao.gov.cn/
+
+2818个数据集、7260个API、25个领域、12个文件集<br><br/>
+
+### 陕西省
+陕西省公共数据开放平台
+
+http://www.sndata.gov.cn/
+
+57个部门1300多个可开放目录，省级部门已开放121个目录1654万条数据<br><br/>
+
+### 浙江省
+浙江政务服务网“数据开放”专题网站
+
+http://data.zjzwfw.gov.cn/
+
+68个省级单位提供的350项数据类目，包含100项可下载 的数据资源，137个数据接口和8个移动APP<br><br/>
+
+宁波市政府数据服务网
+
+http://www.datanb.gov.cn/nbdatafore/web/indexpage.action
+
+20类主题、432个资源、3065883<br><br/>
+
+### 安徽省
+合肥市政府数据开放平台
+
+http://61.133.142.137
+
+"已开放79个部门，3个数据种类，211233条数据<br><br/>
+
+蚌埠市信息资源开放平台
+
+http://data.bengbu.gov.cn/
+
+数据总量140条，112次下载次数、29次调用次数、2837次浏览总数<br><br/>
+
+黄山市人民政府数据开放栏目
+
+http://www.huangshan.gov.cn/DataDevelopment/showTopicContentList/8/page_1.html<br><br/>
+
+### 湖北省
+武汉市政务公开数据服务网
+
+http://www.wuhandata.gov.cn/whData/
+
+"开放数据部门101家，开放数据集2192类，开放数据总量118417条，4个API,54个应用<br><br/>
+
+### 湖南省
+长沙市政府门户网站数据开放平台
+
+http://www.changsha.gov.cn/data/
+
+40个部门，236个接口，6个app<br><br/>
+
+### 江苏省
+苏州市政府数据开放平台
+
+http://www.suzhou.gov.cn/dataOpenWeb/data<br><br/>
+
+常州市政府数据开放平台
+
+http://opendata.changzhou.gov.cn/
+
+390705条数据； 198个数据资源； 24个部门<br><br/>
+
+### 黑龙江省
+哈尔滨市政府数据开放平台
+
+http://data.harbin.gov.cn/
+
+54个部门; 1059个数据集; 5167696条数据; 5782个数据文件; 2284个API; 7个APP;<br><br/>
+
+### 新疆维吾尔自治区
+新疆维吾尔自治区政务数据开放网
+
+http://data.xinjiang.gov.cn/index.html<br><br/>
+
+### 台湾省
+台湾
+
+http://data.gov.tw/
+
+38745个资料集，18个分类，649个部门<br><br/>
+
+資料一線通| DATA.GOV.HK 
+
+https://data.gov.hk/sc/
+
+澳门 
+
+https://www.dsec.gov.mo/home_zhmo.aspx<br><br/>
+
+云南无 内蒙古无 广西无 西藏无 重庆无 辽宁省暂无 吉林省暂无 河北省暂无 山西省暂无 甘肃省暂无 青海省暂无 <br><br/>
+
+
+
+
+ 
+ 
+纽约政府开放数据平台
+
+https://opendata.cityofnewyork.us/<br><br/>
+
+美国官网数据超市
+
+https://www.data.gov/
+
+提供230,256个数据集、14个数据目录<br><br/>
+
+新加坡政府开放数据平台
+
+https://data.gov.sg/
+
+提供1700个数据集、9个数据目录<br><br/>
+
+休斯顿市开放数据门户网站
+
+http://data.houstontx.gov/<br><br/>
+
+United States Census Bureau
+
+https://www.census.gov/<br><br/>
+
+
+
+
+ 
+
+ 
+
+
+
+
+## 问题三：2012-2018年各季度GDP增速
+### 统计指标<br><br/>
+国内生产总值（现价）当季值<br><br/>
+国内生产总值（不变价）当季值<br><br/>
+国内生产总值环比增长速度<br><br/>
+### 数据页面<br><br/>
+### 计算步骤<br><br/>
+同比名义增速=（国内生产总值（现价）当季值-去年同季度值）/去年同季度值<br><br/>
+同比实际增速=（国内生产总值（不变价）当季值-去年同季度值）/去年同季度值<br><br/>
 <table width="2413.60" border="0" cellpadding="0" cellspacing="0" style='width:2413.60pt;border-collapse:collapse;table-layout:fixed;'>
    <col width="231.20" style='mso-width-source:userset;mso-width-alt:9864;'/>
    <col width="71.60" span="24" style='mso-width-source:userset;mso-width-alt:3054;'/>
@@ -178,7 +541,7 @@
     <td class="xl65" colspan="4" style='mso-ignore:colspan;'></td>
    </tr>
    <tr height="17.60" style='height:17.60pt;'>
-    <td height="17.60" style='height:17.60pt;' x:str>环比增速</td>
+    <td height="17.60" style='height:17.60pt;' x:str>环比增速（%）</td>
     <td align="right" x:num>1.5</td>
     <td align="right" x:num>1.6</td>
     <td align="right" x:num>1.7</td>
