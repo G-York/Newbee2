@@ -13,7 +13,8 @@
 * [World Happiness Report 2019](https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019/kernels)	
 * Data Source : http://worldhappiness.report/ed/2019/Context 
 * [下载](https://github.com/G-York/Newbee2/blob/master/world-happiness-report-2019.csv)
-* Sample(5)
+<br></br>
+#### Sample(5) ####
  <table width="563.20" border="0" cellpadding="0" cellspacing="0" style='width:563.20pt;border-collapse:collapse;table-layout:fixed;'>
    <col width="51.20" span="11" style='width:51.20pt;'/>
    <tr height="71" style='height:71.00pt;'>
@@ -98,9 +99,6 @@
     <tr width="0" style='display:none;'/>
    <![endif]>
   </table>
-<br></br>
-
-
 #### Introduction ####
 > The World Happiness Report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. This year’s World Happiness Report focuses on happiness and the community: how happiness has evolved over the past dozen years, with a focus on the technologies, social norms, conflicts and government policies that have driven those changes.
 #### Columns ####
