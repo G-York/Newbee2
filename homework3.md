@@ -11,8 +11,93 @@
 <br></br>
 ### 选取数据集 ###
 * [World Happiness Report 2019](https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019/kernels)	
-* Data Source : http://worldhappiness.report/ed/2019/Context <br></br>
+* Data Source : http://worldhappiness.report/ed/2019/Context 
 * [下载](https://github.com/G-York/Newbee2/blob/master/world-happiness-report-2019.csv)
+* Sample(5)
+ <table width="563.20" border="0" cellpadding="0" cellspacing="0" style='width:563.20pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="51.20" span="11" style='width:51.20pt;'/>
+   <tr height="71" style='height:71.00pt;'>
+    <td class="xl65" height="71" width="51.20" style='height:71.00pt;width:51.20pt;' x:str>Country (r<span style='display:none;'>egion)</span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Ladder</td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>SD of Lad<span style='display:none;'>der</span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Positive af<span style='display:none;'>fect</span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Negative a<span style='display:none;'>ffect</span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Social sup<span style='display:none;'>port</span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Freedom</td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Corruption<span style='display:none;'></span></td>
+    <td class="xl65" width="51.20" style='width:51.20pt;' x:str>Generosity</td>
+    <td class="xl66" width="51.20" style='width:51.20pt;' x:str>Log of GDP<br/>per capita</td>
+    <td class="xl66" width="51.20" style='width:51.20pt;' x:str>Healthy life<br/>expectancy</td>
+   </tr>
+   <tr height="17.60" style='height:17.60pt;'>
+    <td class="xl65" height="17.60" style='height:17.60pt;' x:str>Finland</td>
+    <td class="xl65" align="right" x:num>1</td>
+    <td class="xl65" align="right" x:num>4</td>
+    <td class="xl65" align="right" x:num>41</td>
+    <td class="xl65" align="right" x:num>10</td>
+    <td class="xl65" align="right" x:num>2</td>
+    <td class="xl65" align="right" x:num>5</td>
+    <td class="xl65" align="right" x:num>4</td>
+    <td class="xl65" align="right" x:num>47</td>
+    <td class="xl65" align="right" x:num>22</td>
+    <td class="xl65" align="right" x:num>27</td>
+   </tr>
+   <tr height="17.60" style='height:17.60pt;'>
+    <td class="xl65" height="17.60" style='height:17.60pt;' x:str>Denmark</td>
+    <td class="xl65" align="right" x:num>2</td>
+    <td class="xl65" align="right" x:num>13</td>
+    <td class="xl65" align="right" x:num>24</td>
+    <td class="xl65" align="right" x:num>26</td>
+    <td class="xl65" align="right" x:num>4</td>
+    <td class="xl65" align="right" x:num>6</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>22</td>
+    <td class="xl65" align="right" x:num>14</td>
+    <td class="xl65" align="right" x:num>23</td>
+   </tr>
+   <tr height="17.60" style='height:17.60pt;'>
+    <td class="xl65" height="17.60" style='height:17.60pt;' x:str>Norway</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>8</td>
+    <td class="xl65" align="right" x:num>16</td>
+    <td class="xl65" align="right" x:num>29</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>8</td>
+    <td class="xl65" align="right" x:num>11</td>
+    <td class="xl65" align="right" x:num>7</td>
+    <td class="xl65" align="right" x:num>12</td>
+   </tr>
+   <tr height="17.60" style='height:17.60pt;'>
+    <td class="xl65" height="17.60" style='height:17.60pt;' x:str>Iceland</td>
+    <td class="xl65" align="right" x:num>4</td>
+    <td class="xl65" align="right" x:num>9</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>1</td>
+    <td class="xl65" align="right" x:num>7</td>
+    <td class="xl65" align="right" x:num>45</td>
+    <td class="xl65" align="right" x:num>3</td>
+    <td class="xl65" align="right" x:num>15</td>
+    <td class="xl65" align="right" x:num>13</td>
+   </tr>
+   <tr height="17.60" style='height:17.60pt;'>
+    <td class="xl65" height="17.60" style='height:17.60pt;' x:str>Netherlan<span style='display:none;'>ds</span></td>
+    <td class="xl65" align="right" x:num>5</td>
+    <td class="xl65" align="right" x:num>1</td>
+    <td class="xl65" align="right" x:num>12</td>
+    <td class="xl65" align="right" x:num>25</td>
+    <td class="xl65" align="right" x:num>15</td>
+    <td class="xl65" align="right" x:num>19</td>
+    <td class="xl65" align="right" x:num>12</td>
+    <td class="xl65" align="right" x:num>7</td>
+    <td class="xl65" align="right" x:num>12</td>
+    <td class="xl65" align="right" x:num>18</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'/>
+   <![endif]>
+  </table>
 <br></br>
 
 
