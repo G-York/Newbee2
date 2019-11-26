@@ -26,7 +26,7 @@ legend.position="top",
 panel.border=element_blank())
 plot(gg)
 ```
-
+![image3](https://github.com/G-York/Newbee2/blob/master/lawages.jpeg)
 
 ![image2](https://github.com/G-York/Newbee2/blob/master/%E5%B7%A5%E8%AF%BB%E5%AD%A6%E6%A0%A1.png)
 ```
@@ -47,5 +47,5 @@ ggtitle("ratios of non-arrest/non-prosecution cases in juvenile crimes")+
 labs(x=NULL,y=NULL)
 plot(gg2)
 ```
-
+![image4](https://github.com/G-York/Newbee2/blob/master/ratios.jpeg)
 
